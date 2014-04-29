@@ -3,7 +3,7 @@ Toby Retallick
 
 ###Junior Software Engineer based in London
 
-*Find me on [Github](http://www.github.com/tobyretal), [Linkedin](http://uk.linkedin.com/in/tobyret/), [Twitter](http://www.twitter.com/tobyret) or check our my [software blog](http://digitalmaker.ghost.io).*
+*Find me on [Github](http://www.github.com/tobyretal), [Linkedin](http://uk.linkedin.com/in/tobyret/), [Twitter](http://www.twitter.com/tobyret) or check out my [software blog](http://digitalmaker.ghost.io).*
 
 
 Code Examples
