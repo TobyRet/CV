@@ -9,17 +9,19 @@ Toby Retallick
 Code Examples
 -------------
 
-| Chartist | ToolShare | Sudoku | Rock, Scissors, Paper, Lizard, Spock
+| [Chartist](https://github.com/chartist/chartist) | [Yelp Clone]() | [Sudoku](https://github.com/TobyRet/Sudoku-Online-Version) | [Rock, Scissors, Paper, Lizard, Spock](https://github.com/TobyRet/RockPaperScissorsLizardSpock)
 |:----------- |:-------- |:--------- | :----------------------------- |
-| Info coming soon | Info coming soon | Info coming soon | Info coming soon
+| Rails MVP currently under development. Working with [@mariogintilli](https://github.com/mariogintili), [@duboff](https://github.com/duboff) and [@yanova](https://github.com/yan0va) we are creating an app to help people quickly visualize and share simple data. *Launching May 9th 2014*. | Info coming soon. | Test-driven Sinatra web app of the popular puzzle game. | Online version of the Rock, Paper, Scissors variant made popular by the TV comedy series Big Bang Theory.
 
 
-My Story
---------
+My Background
+-------------
 
-I've been involved in managing digital products for the past seven years. Over time, my interest in software development grew until I realised I wanted to play a bigger role in crafting awesome online experiences. 
+I've been involved in managing digital products for the past seven years. As Head of Communications at Youth Music I have had the opportunity to work closely with music industry organisations and artists to generate income and raise the profile of the charity. I'm a music lover, and have been gigging with bands since my early teens. I've toured as far afield as the Europe and more recently, have been featured on the backing tracks of 2 playstation games.
 
-In 2014 I was accepted onto [Makers Academy](http://www.makersacademy.com), a highly selective, 12 week full-time programme that teaches software development in London and will graduate on May 9th 2014. 
+Over the past three years, my interest in software development grew until I realised I wanted to play a more *meaningful* role in crafting awesome online experiences. In 2014 I was accepted onto [Makers Academy](http://www.makersacademy.com), a highly selective, 12 week full-time programme that teaches software development in London. 
+
+I will graduate on May 9th 2014. 
 
 
 Technical Skillset
@@ -71,6 +73,12 @@ Responsible for the day-to-day management and development of a large online trai
 
 ####Jun 2006 - Apr 2007: Regional Communications Officer, [Consumer Direct]("http://www.oft.gov.uk/consumer-advice")
 Responsible for coordinating all regional public relations activity and increasing call volume to the helpline.
+
+Community Participation
+-----------------------
+
+- Regular attendee at London Ruby User Group meetups.
+- Guest speaker at the Charity Comms Digital Impact Conference (2013). Topic: The Untapped Potential of Online Communities.
 
 
 Education
