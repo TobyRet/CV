@@ -59,7 +59,7 @@ Experience
 ####Jan 2012 - Feb 2014: Head of Communications &amp; IT, [National Foundation for Youth Music](http://www.youthmusic.org.uk)
 Heading up a team of five, I was responsible for the development of all digital products and overseeing delivery of strategies to generate public support and income. I worked closely with both commercial music industry organisations and celebrities to raise the profile of the charity.
 
-####Jan 2013 - Jul 2013: Digital Advisor, [Climate Strategies](www.climatestrategies.org)
+####Jan 2013 - Jul 2013: Digital Advisor, [Climate Strategies](http://www.climatestrategies.org)
 Volunteered my services pro-bono and conducted a full digital communications audit and UX 'expert review'. Made recommendations for short and medium term digital strategy.
                 
 ####Mar 2011 - Jan 2013: Digital Project Manager, [National Foundation for Youth Music](http://www.youthmusic.org.uk)
@@ -71,7 +71,7 @@ Responsible for building the national profile of a training and advice service f
 ####Apr 2007 - Aug 2008: Website Manager, [National Foundation for Youth Music](http://www.youthmusic.org.uk)
 Responsible for the day-to-day management and development of a large online training platform.
 
-####Jun 2006 - Apr 2007: Regional Communications Officer, [Consumer Direct]("http://www.oft.gov.uk/consumer-advice")
+####Jun 2006 - Apr 2007: Regional Communications Officer, [Consumer Direct](http://www.oft.gov.uk/consumer-advice)
 Responsible for coordinating all regional public relations activity and increasing call volume to the helpline.
 
 Community Participation
