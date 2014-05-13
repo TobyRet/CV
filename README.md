@@ -11,7 +11,7 @@ Code Examples
 
 | [Chartist](https://github.com/chartist/chartist)  | [Sudoku](https://github.com/TobyRet/Sudoku-Online-Version)  | [Rock, Scissors, Paper, Lizard, Spock](https://github.com/TobyRet/RockPaperScissorsLizardSpock)  |
 |---|---|---|
-| Rails MVP currently under development. Working with [@mariogintilli](https://github.com/mariogintili), [@duboff](https://github.com/duboff) and [@yanova](https://github.com/yan0va) we are creating an app to help people quickly visualize and share simple data. *Launching May 9th 2014*.  | Test-driven Sinatra web app of the popular puzzle game.  | Online version of the Rock, Paper, Scissors variant made popular by the TV comedy series Big Bang Theory. |
+| Rails MVP launched May 9th 2014. Working with [@mariogintilli](https://github.com/mariogintili), [@duboff](https://github.com/duboff) and [@yanova](https://github.com/yan0va) we created an app to help people quickly visualize and share simple data. | Test-driven Sinatra web app of the popular puzzle game.  | Online version of the Rock, Paper, Scissors variant made popular by the TV comedy series Big Bang Theory. |
 
 
 My Background
