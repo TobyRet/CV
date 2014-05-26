@@ -17,9 +17,9 @@ Code Examples
 My Background
 -------------
 
-I've been involved in managing digital products for the past seven years. As Head of Communications at Youth Music I have had the opportunity to work closely with music industry organisations and artists to generate income and raise the profile of the charity. I'm a music lover and have been gigging with bands since my early teens, touring as far afield as the Europe and New Zealand.
+I've been involved in managing digital products for the past seven years. As Head of Communications at Youth Music I have had the opportunity to work closely with music industry organisations and artists to generate income and raise the profile of the charity. I'm a music lover and have been gigging with bands since my early teens, touring as far afield as Europe and New Zealand.
 
-Over the past three years, my interest in software development grew until I realised I wanted to play a more *meaningful* role in crafting awesome online experiences. In 2014 I was accepted onto [Makers Academy](http://www.makersacademy.com), a highly selective, 12 week full-time programme that teaches software development in London. I graduated on May 9th 2014. 
+Over the past three years, my interest in software development grew until I realised I wanted to play a more *meaningful* role in crafting awesome online experiences. In 2014 I graduated from [Makers Academy](http://www.makersacademy.com), a highly selective, 12 week full-time programme that teaches software development in London. If you are looking for a junior developer that can get stuck-in and start making high quality working software straight away, look no further. 
 
 
 Technical Skillset
@@ -52,27 +52,31 @@ Technical Skillset
   - SEO
 
 
-
 Experience
 ----------
 
 ####Jan 2012 - Feb 2014: Head of Communications &amp; IT, National Foundation for Youth Music.
 Heading up a team of five, I was responsible for the development of all digital products and overseeing delivery of strategies to generate public support and income. 
 
-####Jan 2013 - Jul 2013: Digital Advisor, Climate Strategies.
-Volunteered my services pro-bono and conducted a full digital communications audit and UX 'expert review'. Made recommendations for short and medium term digital strategy.
-                
 ####Mar 2011 - Jan 2013: Digital Project Manager, National Foundation for Youth Music.
-Responsible for leading a cross-departmental team to design and build an online community platform for beneficiaries which today has 6,000 members.
+Responsible for leading a cross-departmental team to design and build an [online community](http://network.youthmusic.org.uk) platform for beneficiaries which today has more than 6,000 members. 
 
 ####Aug 2008 - Mar 2011: Marketing Manager, National Foundation for Youth Music.
-Responsible for building the national profile of a training and advice service for beneficiaries, coordinating the marketing activities of nine regional teams and bringing new products to market.
+Responsible for raising the profile of a training and advice service, coordinating the marketing activities of nine regional teams and bringing new products to market.
 
 ####Apr 2007 - Aug 2008: Website Manager, National Foundation for Youth Music.
 Responsible for the day-to-day management and development of a large online training platform.
 
 ####Jun 2006 - Apr 2007: Regional Communications Officer, Consumer Direct.
 Responsible for coordinating all regional public relations activity and increasing call volume to the helpline.
+
+
+Volunteering
+------------
+
+####Jan 2013 - Jul 2013: Digital Advisor, Climate Strategies.
+Volunteered my services pro-bono and conducted a full digital communications audit and UX 'expert review'. Made recommendations for short and medium term digital strategy.
+                
 
 Community Participation
 -----------------------
