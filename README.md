@@ -14,14 +14,6 @@ Code Examples
 | Rails MVP launched May 9th 2014. Working with [@mariogintilli](https://github.com/mariogintili), [@duboff](https://github.com/duboff) and [@yanova](https://github.com/yan0va) we created an app to help people quickly visualize and share simple data. | Test-driven Sinatra web app of the popular puzzle game.  | Online version of the Rock, Paper, Scissors variant made popular by the TV comedy series Big Bang Theory. |
 
 
-My Background
--------------
-
-I've been involved in managing digital products for the past seven years. As Head of Communications at Youth Music I have had the opportunity to work closely with music industry organisations and artists to generate income and raise the profile of the charity. I'm a music lover and have been gigging with bands since my early teens, touring as far afield as Europe and New Zealand.
-
-Over the past three years, my interest in software development grew until I realised I wanted to play a more *meaningful* role in crafting awesome online experiences. In 2014 I graduated from [Makers Academy](http://www.makersacademy.com), a highly selective, 12 week full-time programme that teaches software development in London. If you are looking for a junior developer that can get stuck-in and start making high quality working software straight away, look no further. 
-
-
 Technical Skillset
 ------------------
 
