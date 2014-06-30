@@ -8,16 +8,11 @@ Toby Retallick
 
 Code Examples
 -------------
-<dl>
-  <dt>[Chartist](https://github.com/chartist/chartist)</dt>
-  <dd>Rails MVP launched May 9th 2014. Working with [@mariogintilli](https://github.com/mariogintili), [@duboff](https://github.com/duboff) and [@yanova](https://github.com/yan0va) we created an app to help people quickly visualize and share simple data.</dd>
+**[Chartist](https://github.com/chartist/chartist)** - Rails MVP launched May 9th 2014. Working with **[@mariogintilli](https://github.com/mariogintili)**, [@duboff](https://github.com/duboff) and [@yanova](https://github.com/yan0va) we created full-scale app to help people quickly visualize and share simple data.
 
-  <dt>[Sudoku](https://github.com/TobyRet/Sudoku-Online-Version)</dt>
-  <dd>Test-driven Sinatra web app of the popular puzzle game.</dd>
+**[Sudoku](https://github.com/TobyRet/Sudoku-Online-Version)** - Test-driven Sinatra web app of the popular puzzle game.
 
-  <dt>[Rock, Scissors, Paper, Lizard, Spock](https://github.com/TobyRet/RockPaperScissorsLizardSpock)</dt>
-  <dd>Online version of the Rock, Paper, Scissors variant made popular by the TV comedy series Big Bang Theory.</dd>
-</dl>
+**[Rock, Scissors, Paper, Lizard, Spock](https://github.com/TobyRet/RockPaperScissorsLizardSpock)** - Online version of the Rock, Paper, Scissors variant made popular by the TV comedy series Big Bang Theory.
 
 Technical Skillset
 ------------------
