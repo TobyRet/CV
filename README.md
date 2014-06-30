@@ -19,6 +19,10 @@ Project | Description
 
 [**See more** code examples...](https://github.com/TobyRet?tab=repositories)
 
+My Background
+-------------
+I've been involved in managing digital products for the last seven years. As Head of Communications at Youth Music I have overseen the design and build of fundraising platforms and online communities. In the last three years, my interest in the technical side of software development grew. My part-time programming hobby lead me to joining Makers Academy in February 2014, a highly selective, 12 week full-time programme that teaches software development in London. If you are looking for a junior developer that can do more than just code, then look no further!
+
 Technical Skillset
 ------------------
 
