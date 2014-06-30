@@ -11,7 +11,7 @@ Code Examples
 
 Project | Description
 :---: | :---
-**[Chartist](https://github.com/chartist/chartist)** | Rails MVP launched May 9th 2014. Working with [@mariogintilli](https://github.com/mariogintili), [@duboff](https://github.com/duboff) and [@yanova](https://github.com/yan0va) we created full-scale app to help people quickly visualize and share simple data.
+**[Chartist](https://github.com/chartist/chartist)** | Rails MVP launched May 9th 2014. Working with [@mariogintilli](https://github.com/mariogintili), [@duboff](https://github.com/duboff) and [@yanova](https://github.com/yan0va) I created a full-scale app to help people quickly visualize and share simple data.
 **[Sudoku](https://github.com/TobyRet/Sudoku-Online-Version)** | Test-driven Sinatra web app of the popular puzzle game.
 **[Console Social Network](https://github.com/TobyRet/Console_Social_Network)** | A test-driven clone of Twitter created just for the console / terminal.
 **[Email Address Predictor](https://github.com/TobyRet/email_prediction)** | Test-driven Ruby application that predicts the email address for a user using historical data.
