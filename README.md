@@ -56,7 +56,7 @@ Technical Skillset
 Experience
 ----------
 
-####Jan 2012 - Feb 2014: Head of Communications &amp; IT, National Foundation for Youth Music.
+####Jan 2012 - Present: Head of Communications &amp; IT, National Foundation for Youth Music.
 Heading up a team of five, I was responsible for the development of all digital products and overseeing delivery of strategies to generate public support and income. 
 
 ####Mar 2011 - Jan 2013: Digital Project Manager, National Foundation for Youth Music.
