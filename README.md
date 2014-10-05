@@ -19,9 +19,6 @@ Project | Description
 
 [**See more** code examples...](https://github.com/TobyRet?tab=repositories)
 
-My Background
--------------
-I've been involved in managing digital products for the last seven years. As Head of Communications at Youth Music I have overseen the design and build of fundraising platforms and online communities. In the last three years, my interest in the technical side of software development grew and my 'part-time programming hobby' lead me to joining Makers Academy - a highly selective, 12 week full-time programme that teaches software development in London. If you are looking for a junior developer that can do more than just code, then look no further!
 
 Technical Skillset
 ------------------
@@ -56,7 +53,10 @@ Technical Skillset
 Experience
 ----------
 
-####Jan 2012 - Present: Head of Communications &amp; IT, National Foundation for Youth Music.
+####Sep 2014 - Present: Apprentice Software Developer, Codurance.
+Full details of the apprenticeship can be found at [here](http://www.codurance.com/careers/apprentice/).
+
+####Jan 2012 - Aug 2014: Head of Communications &amp; IT, National Foundation for Youth Music.
 Heading up a team of five, I was responsible for the development of all digital products and overseeing delivery of strategies to generate public support and income. 
 
 ####Mar 2011 - Jan 2013: Digital Project Manager, National Foundation for Youth Music.
