@@ -77,7 +77,8 @@ Community Participation
 
 Education
 ---------
-### [Makers Academy](http://www.makersacademy.com/)
+### Makers Academy
+- A three month software development bootcamp based in London.
 
 ### University of Canterbury, New Zealand
 - Post Graduate Diploma in Management
