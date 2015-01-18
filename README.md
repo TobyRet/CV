@@ -3,7 +3,7 @@ Toby Retallick
 
 ###Junior Software Developer based in London
 
-*Find me on [Linkedin](http://uk.linkedin.com/in/tobyret/) and [Twitter](http://www.twitter.com/tobyret).
+Find me on [Linkedin](http://uk.linkedin.com/in/tobyret/) and [Twitter](http://www.twitter.com/tobyret).
 
 
 Code Examples
@@ -43,7 +43,7 @@ Experience
 ----------
 
 ####Sep 2014 - Present: Apprentice Software Developer, Codurance, London.
-Full details of the apprenticeship can be found at [here](http://www.codurance.com/careers/apprentice/) or check out my [recent blog](http://codurance.com/2014/12/06/life-as-an-apprentice/) desribing my experience as an apprentice..
+Full details of the apprenticeship can be found at [here](http://www.codurance.com/careers/apprentice/) or check out my [recent blog](http://codurance.com/2014/12/06/life-as-an-apprentice/) desribing my experience as an apprentice.
 
 ####Jan 2012 - Aug 2014: Head of Communications &amp; IT, National Foundation for Youth Music, London.
 Heading up a team of five, I was responsible for the development of all digital products and overseeing delivery of strategies to generate public support and income. 
@@ -94,5 +94,5 @@ Interests
 - Collaborative consumption
 - Gamification
 - Online communities
-- Live performance, guitar and karate.
+- Live performance, guitar, coffee and karate.
 
