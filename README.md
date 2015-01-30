@@ -1,7 +1,7 @@
 Toby Retallick
 ==============
 
-###Junior Software Developer based in London
+###Apprentice Software Developer based in London
 
 Find me on [Linkedin](http://uk.linkedin.com/in/tobyret/) and [Twitter](http://www.twitter.com/tobyret).
 
@@ -30,7 +30,7 @@ Technical Skillset
   - Web frameworks / libraries: Rails, Sinatra, Spark
   - Testing frameworks: Rspec, jUnit, Mockito, Jasmine, Capybara, Cucumber
   - Databases: PostgreSQL, SQLite, MongoDB
-  - Deployment: Jenkins, Heroku
+  - Deployment: Jenkins, Heroku, Docker
   - Git
   - Project Management
   - Line Management
@@ -43,7 +43,7 @@ Experience
 ----------
 
 ####Sep 2014 - Present: Apprentice Software Developer, Codurance, London.
-Full details of the apprenticeship I am undertaking can be found at [here](http://www.codurance.com/careers/apprentice/) or check out my [recent blog](http://codurance.com/2014/12/06/life-as-an-apprentice/) describing my experience as an apprentice. To date I have helped support client projects and am currently working on an internal Customer Relation Management System (Angular, Spark, MongoDB, Docker, Jenkins, Amazon EC2) as well as helping to organise the annual (SoCraTes Confererence)[www.socratesuk.org] taking place in June.
+Full details of the apprenticeship I am undertaking can be found at [here](http://www.codurance.com/careers/apprentice/) or check out my [recent blog](http://codurance.com/2014/12/06/life-as-an-apprentice/) describing my experience as an apprentice. To date I have helped support client projects and am currently working on an internal Customer Relation Management System (Angular, Spark, MongoDB, Docker, Jenkins, Amazon EC2) as well as helping to organise the annual [SoCraTes Confererence](www.socratesuk.org) taking place in June.
 
 ####Jan 2012 - Aug 2014: Head of Communications &amp; IT, National Foundation for Youth Music, London.
 Heading up a team of five, I was responsible for the development of all digital products and overseeing delivery of strategies to generate public support and income. 
