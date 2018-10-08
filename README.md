@@ -1,7 +1,7 @@
 Toby Retallick
 ==============
 
-###Apprentice Software Developer based in London
+### Apprentice Software Developer based in London
 
 Find me on [Linkedin](http://uk.linkedin.com/in/tobyret/) and [Twitter](http://www.twitter.com/tobyret).
 
@@ -42,22 +42,22 @@ Technical Skillset
 Experience
 ----------
 
-####Sep 2014 - Present: Apprentice Software Developer, Codurance, London.
+#### Sep 2014 - Present: Apprentice Software Developer, Codurance, London.
 Full details of the apprenticeship I am undertaking can be found at [here](http://www.codurance.com/careers/apprentice/) or check out my [recent blog](http://codurance.com/2014/12/06/life-as-an-apprentice/) describing my experience as an apprentice. To date I have helped support client projects and am currently working on an internal Customer Relation Management System (Angular, Spark, MongoDB, Docker, Jenkins, Amazon EC2) as well as helping to organise the annual [SoCraTes Confererence](www.socratesuk.org) taking place in June.
 
-####Jan 2012 - Aug 2014: Head of Communications &amp; IT, National Foundation for Youth Music, London.
+#### Jan 2012 - Aug 2014: Head of Communications &amp; IT, National Foundation for Youth Music, London.
 Heading up a team of five, I was responsible for the development of all digital products and overseeing delivery of strategies to generate public support and income. 
 
-####Mar 2011 - Jan 2013: Digital Project Manager, National Foundation for Youth Music, London.
+#### Mar 2011 - Jan 2013: Digital Project Manager, National Foundation for Youth Music, London.
 Responsible for leading a cross-departmental team to design and build an [online community](http://network.youthmusic.org.uk) platform for beneficiaries which today has more than 6,000 members. 
 
-####Aug 2008 - Mar 2011: Marketing Manager, National Foundation for Youth Music, London.
+#### Aug 2008 - Mar 2011: Marketing Manager, National Foundation for Youth Music, London.
 Responsible for raising the profile of a training and advice service, coordinating the marketing activities of nine regional teams and bringing new products to market.
 
-####Apr 2007 - Aug 2008: Website Manager, National Foundation for Youth Music, London.
+#### Apr 2007 - Aug 2008: Website Manager, National Foundation for Youth Music, London.
 Responsible for the day-to-day management and development of a large online training platform.
 
-####Jun 2006 - Apr 2007: Regional Communications Officer, Consumer Direct, London.
+#### Jun 2006 - Apr 2007: Regional Communications Officer, Consumer Direct, London.
 Responsible for coordinating all regional public relations activity and increasing call volume to the helpline.
 
 
