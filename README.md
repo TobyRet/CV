@@ -64,7 +64,7 @@ Responsible for coordinating all regional public relations activity and increasi
 Volunteering
 ------------
 
-####Jan 2013 - Jul 2013: Digital Advisor, Climate Strategies.
+#### Jan 2013 - Jul 2013: Digital Advisor, Climate Strategies.
 Volunteered my services pro-bono and conducted a full digital communications audit and UX 'expert review'. Made recommendations for short and medium term digital strategy.
                 
 
